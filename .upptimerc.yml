@@ -4,13 +4,18 @@ repo: status-ci
 sites:
   - name: Decker Home
     url: https://derailed.one
+    expectedStatusCodes:
+      - 200
+      - 404
   - name: Decker API
     url: https://derailed.one/api
 
 status-website:
   # TODO: Change Logo URL
+  baseUrl: /status-ci
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Decker Status
+  theme: night
   introTitle: "**Decker Status** OSS"
   introMessage: This is the **Open Source** Status Page for Decker's Services.
   navbar:
@@ -18,3 +23,7 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+
+commitMessages:
+  commitAuthorName: "Decker Status Bot"
+  commitAuthorEmail: "statusbot@deckerci.com"
