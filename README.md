@@ -1,6 +1,6 @@
 # [📈 Live Status](https://deckerci.github.io/status-ci): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [Decker CI/CD](www.deckerci.com), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for [Itch](https://itch.social), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/deckerci/status-ci/workflows/Uptime%20CI/badge.svg)](https://github.com/deckerci/status-ci/actions?query=workflow%3A%22Uptime+CI%22)
 [![Response Time CI](https://github.com/deckerci/status-ci/workflows/Response%20Time%20CI/badge.svg)](https://github.com/deckerci/status-ci/actions?query=workflow%3A%22Response+Time+CI%22)
@@ -21,10 +21,10 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://deckerci.github.io/status-ci)
+[**Visit our status website →**](https://itchci.github.io/status)
 
 ## 📄 License
 
 - Powered by: [Upptime](https://github.com/upptime/upptime)
-- Code: [MIT](./LICENSE) © [Decker CI/CD](www.deckerci.com)
+- Code: [MIT](./LICENSE) © [Itch](https://itch.social)
 - Data in the `./history` directory: [Open Database License](https://opendatacommons.org/licenses/odbl/1-0/)
