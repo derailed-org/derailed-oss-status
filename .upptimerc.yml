@@ -1,5 +1,5 @@
 owner: itchci
-repo: status-ci
+repo: status
 
 sites:
   - name: Itch Legacy Home
@@ -12,8 +12,8 @@ sites:
 
 status-website:
   # TODO: Change Logo URL
-  baseUrl: /status-ci
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  baseUrl: /status
+  logoUrl: https://raw.githubusercontent.com/itchci/status/master/assets/itchy.svg
   name: Itch Status
   theme: night
   introTitle: "**Itch Status** OSS"
