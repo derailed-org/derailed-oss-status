@@ -1,23 +1,23 @@
-owner: deckerci
+owner: itchci
 repo: status-ci
 
 sites:
-  - name: Decker Home
+  - name: Itch Legacy Home
     url: https://derailed.one
     expectedStatusCodes:
       - 200
       - 404
-  - name: Decker API
+  - name: Itch Legacy API
     url: https://derailed.one/api
 
 status-website:
   # TODO: Change Logo URL
   baseUrl: /status-ci
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Decker Status
+  name: Itch Status
   theme: night
-  introTitle: "**Decker Status** OSS"
-  introMessage: This is the **Open Source** Status Page for Decker's Services.
+  introTitle: "**Itch Status** OSS"
+  introMessage: This is the **Open Source** Status Page for Itch's Services.
   navbar:
     - title: Status
       href: /
@@ -25,5 +25,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 commitMessages:
-  commitAuthorName: "Decker Status Bot"
-  commitAuthorEmail: "statusbot@deckerci.com"
+  commitAuthorName: "Itchy"
+  commitAuthorEmail: "statusbot@itch.ci"
