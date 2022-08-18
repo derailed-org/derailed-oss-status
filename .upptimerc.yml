@@ -2,12 +2,12 @@ owner: itchci
 repo: status
 
 sites:
-  - name: Itch Legacy Home
+  - name: Derailed Legacy Home
     url: https://derailed.one
     expectedStatusCodes:
       - 200
       - 404
-  - name: Itch Legacy API
+  - name: Derailed Legacy API
     url: https://derailed.one/api
 
 status-website:
@@ -16,8 +16,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/itchci/status/master/assets/itchy.svg
   name: Itch Status
   theme: night
-  introTitle: "**Itch Status** OSS"
-  introMessage: This is the **Open Source** Status Page for Itch's Services.
+  introTitle: "**Derailed Status** OSS"
+  introMessage: This is the **Open Source** Status Page for Derailed's Services.
   navbar:
     - title: Status
       href: /
