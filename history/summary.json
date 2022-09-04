@@ -4,9 +4,9 @@
     "url": "https://derailed.one",
     "icon": "https://favicons.githubusercontent.com/derailed.one",
     "slug": "derailed-legacy-home",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,24 +15,28 @@
     "timeWeek": 328,
     "timeMonth": 307,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-04": 0
+    }
   },
   {
     "name": "Derailed Legacy API",
     "url": "https://derailed.one/api",
     "icon": "https://favicons.githubusercontent.com/derailed.one",
     "slug": "derailed-legacy-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 309,
-    "timeDay": 236,
-    "timeWeek": 319,
-    "timeMonth": 309,
-    "timeYear": 309,
-    "dailyMinutesDown": {}
+    "time": 296,
+    "timeDay": 147,
+    "timeWeek": 287,
+    "timeMonth": 296,
+    "timeYear": 296,
+    "dailyMinutesDown": {
+      "2022-09-04": 0
+    }
   }
 ]
