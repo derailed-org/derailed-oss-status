@@ -12,8 +12,8 @@ sites:
 
 status-website:
   # TODO: Change Logo URL
-  baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/itchci/status/master/assets/derailed-mascot.svg
+  baseUrl: /
+  logoUrl: https://raw.githubusercontent.com/derailed-org/status/master/assets/derailed-mascot.svg
   name: Derailed Status
   cname: status.derailed.one
   theme: night
