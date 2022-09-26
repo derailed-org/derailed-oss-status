@@ -13,8 +13,8 @@ sites:
 status-website:
   # TODO: Change Logo URL
   baseUrl: /status
-  logoUrl: https://raw.githubusercontent.com/itchci/status/master/assets/itchy.svg
-  name: Itch Status
+  logoUrl: https://raw.githubusercontent.com/itchci/status/master/assets/derailed-mascot.svg
+  name: Derailed Status
   theme: night
   introTitle: "**Derailed Status** OSS"
   introMessage: This is the **Open Source** Status Page for Derailed's Services.
