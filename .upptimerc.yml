@@ -1,4 +1,4 @@
-owner: itchci
+owner: derailed-org
 repo: status
 
 sites:
@@ -25,5 +25,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 commitMessages:
-  commitAuthorName: "Itchy"
-  commitAuthorEmail: "statusbot@itch.ci"
+  commitAuthorName: "Derailer"
+  commitAuthorEmail: "statusbot@derailed.org"
