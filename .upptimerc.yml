@@ -15,6 +15,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/itchci/status/master/assets/derailed-mascot.svg
   name: Derailed Status
+  cname: status.derailed.one
   theme: night
   introTitle: "**Derailed Status** OSS"
   introMessage: This is the **Open Source** Status Page for Derailed's Services.
