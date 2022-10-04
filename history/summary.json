@@ -4,19 +4,19 @@
     "url": "https://derailed.one",
     "icon": "https://icons.duckduckgo.com/ip3/derailed.one.ico",
     "slug": "derailed-home",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "99.83%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 349,
-    "timeDay": 349,
-    "timeWeek": 349,
-    "timeMonth": 349,
-    "timeYear": 349,
+    "status": "up",
+    "uptime": "32.90%",
+    "uptimeDay": "32.90%",
+    "uptimeWeek": "32.90%",
+    "uptimeMonth": "32.90%",
+    "uptimeYear": "32.90%",
+    "time": 334,
+    "timeDay": 334,
+    "timeWeek": 334,
+    "timeMonth": 334,
+    "timeYear": 334,
     "dailyMinutesDown": {
-      "2022-10-04": 0
+      "2022-10-04": 122
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://derailed.one/api",
     "icon": "https://icons.duckduckgo.com/ip3/derailed.one.ico",
     "slug": "derailed-api",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "99.92%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.92%",
-    "uptimeYear": "99.92%",
-    "time": 283,
-    "timeDay": 283,
-    "timeWeek": 283,
-    "timeMonth": 283,
-    "timeYear": 283,
+    "status": "up",
+    "uptime": "32.90%",
+    "uptimeDay": "32.90%",
+    "uptimeWeek": "32.90%",
+    "uptimeMonth": "32.90%",
+    "uptimeYear": "32.90%",
+    "time": 278,
+    "timeDay": 278,
+    "timeWeek": 278,
+    "timeMonth": 278,
+    "timeYear": 278,
     "dailyMinutesDown": {
-      "2022-10-04": 0
+      "2022-10-04": 122
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/derailed.one.ico",
     "slug": "derailed-gateway",
     "status": "down",
-    "uptime": "0.03%",
-    "uptimeDay": "0.03%",
-    "uptimeWeek": "0.03%",
-    "uptimeMonth": "0.03%",
-    "uptimeYear": "0.03%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-04": 40
+      "2022-10-04": 162
     }
   }
 ]
