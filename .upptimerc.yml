@@ -11,6 +11,8 @@ sites:
     url: https://derailed.one/api
   - name: Derailed Gateway
     url: https://derailed.one/gateway
+    expectedStatusCodes:
+      - 426
 
 status-website:
   # TODO: Change Logo URL
