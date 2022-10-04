@@ -9,6 +9,8 @@ sites:
       - 404
   - name: Derailed API
     url: https://derailed.one/api
+  - name: Derailed Gateway
+    url: https://derailed.one/gateway
 
 status-website:
   # TODO: Change Logo URL
