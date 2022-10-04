@@ -2,12 +2,12 @@ owner: derailed-org
 repo: status
 
 sites:
-  - name: Derailed Legacy Home
+  - name: Derailed Home
     url: https://derailed.one
     expectedStatusCodes:
       - 200
       - 404
-  - name: Derailed Legacy API
+  - name: Derailed API
     url: https://derailed.one/api
 
 status-website:
