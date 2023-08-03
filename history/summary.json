@@ -4,14 +4,14 @@
     "url": "https://derailed.one",
     "icon": "https://icons.duckduckgo.com/ip3/derailed.one.ico",
     "slug": "derailed-home",
-    "status": "up",
-    "uptime": "99.14%",
-    "uptimeDay": "62.62%",
-    "uptimeWeek": "62.83%",
-    "uptimeMonth": "91.45%",
-    "uptimeYear": "99.14%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "64.66%",
+    "uptimeWeek": "63.68%",
+    "uptimeMonth": "91.64%",
+    "uptimeYear": "99.16%",
     "time": 227,
-    "timeDay": 218,
+    "timeDay": 223,
     "timeWeek": 217,
     "timeMonth": 227,
     "timeYear": 227,
@@ -22,7 +22,7 @@
       "2023-07-31": 695,
       "2023-07-30": 515,
       "2023-07-29": 581,
-      "2023-07-28": 506
+      "2023-07-28": 420
     }
   },
   {
@@ -30,14 +30,14 @@
     "url": "https://derailed.one/api",
     "icon": "https://icons.duckduckgo.com/ip3/derailed.one.ico",
     "slug": "derailed-api",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "62.99%",
-    "uptimeWeek": "63.10%",
-    "uptimeMonth": "91.51%",
-    "uptimeYear": "99.15%",
+    "status": "down",
+    "uptime": "99.17%",
+    "uptimeDay": "65.00%",
+    "uptimeWeek": "63.95%",
+    "uptimeMonth": "91.70%",
+    "uptimeYear": "99.17%",
     "time": 160,
-    "timeDay": 98,
+    "timeDay": 101,
     "timeWeek": 93,
     "timeMonth": 101,
     "timeYear": 160,
@@ -48,7 +48,7 @@
       "2023-07-31": 690,
       "2023-07-30": 514,
       "2023-07-29": 574,
-      "2023-07-28": 504
+      "2023-07-28": 418
     }
   },
   {
