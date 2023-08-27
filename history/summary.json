@@ -6,22 +6,22 @@
     "slug": "derailed-home",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "56.62%",
-    "uptimeWeek": "59.37%",
-    "uptimeMonth": "90.65%",
+    "uptimeDay": "57.09%",
+    "uptimeWeek": "59.25%",
+    "uptimeMonth": "90.62%",
     "uptimeYear": "99.13%",
     "time": 318,
-    "timeDay": 363,
+    "timeDay": 368,
     "timeWeek": 545,
     "timeMonth": 357,
     "timeYear": 318,
     "dailyMinutesDown": {
-      "2023-08-26": 626,
+      "2023-08-26": 619,
       "2023-08-25": 648,
       "2023-08-24": 757,
       "2023-08-23": 728,
       "2023-08-22": 731,
-      "2023-08-21": 605
+      "2023-08-21": 623
     }
   },
   {
@@ -31,22 +31,22 @@
     "slug": "derailed-api",
     "status": "up",
     "uptime": "99.13%",
-    "uptimeDay": "56.88%",
-    "uptimeWeek": "59.55%",
-    "uptimeMonth": "90.69%",
+    "uptimeDay": "57.35%",
+    "uptimeWeek": "59.44%",
+    "uptimeMonth": "90.67%",
     "uptimeYear": "99.13%",
     "time": 129,
-    "timeDay": 93,
+    "timeDay": 95,
     "timeWeek": 106,
-    "timeMonth": 100,
+    "timeMonth": 99,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2023-08-26": 622,
+      "2023-08-26": 615,
       "2023-08-25": 647,
       "2023-08-24": 755,
       "2023-08-23": 726,
       "2023-08-22": 726,
-      "2023-08-21": 602
+      "2023-08-21": 620
     }
   },
   {
