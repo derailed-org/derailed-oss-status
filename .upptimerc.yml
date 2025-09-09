@@ -16,10 +16,9 @@ sites:
 status-website:
   # TODO: Change Logo URL
   baseUrl: /
-  logoUrl: https://raw.githubusercontent.com/derailed-org/derailed-oss-status/master/assets/derailed-mascot.svg
-  name: Derailed Status
+  logoUrl: https://github.com/derailedapp/derailed/blob/master/app/static/derailed-text.svg
   cname: status.derailed.top
-  theme: dark
+  theme: night
   introTitle: "**Derailed Status** OSS"
   introMessage: "This is the Status Page for Derailed."
   navbar:
