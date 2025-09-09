@@ -2,27 +2,22 @@ owner: derailed-org
 repo: status
 
 sites:
-  - name: Derailed Home
-    url: https://derailed.one
+  - name: Derailed Site
+    url: https://derailed.top
     expectedStatusCodes:
       - 200
-      - 404
   - name: Derailed API
-    url: https://derailed.one/api
-  - name: Derailed Gateway
-    url: https://derailed.one/gateway
-    expectedStatusCodes:
-      - 426
+    url: https://api.derailed.top
 
 status-website:
   # TODO: Change Logo URL
   baseUrl: /
-  logoUrl: https://raw.githubusercontent.com/derailed-org/status/master/assets/derailed-mascot.svg
+  logoUrl: https://raw.githubusercontent.com/derailed-org/derailed-oss-status/master/assets/derailed-mascot.svg
   name: Derailed Status
-  cname: status.derailed.one
-  theme: night
+  cname: status.derailed.top
+  theme: dark
   introTitle: "**Derailed Status** OSS"
-  introMessage: This is the **Open Source** Status Page for Derailed's Services.
+  introMessage: "This is the Status Page for Derailed."
   navbar:
     - title: Status
       href: /
@@ -30,5 +25,5 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 
 commitMessages:
-  commitAuthorName: "Derailer"
-  commitAuthorEmail: "statusbot@derailed.org"
+  commitAuthorName: "Derailed Status"
+  commitAuthorEmail: "status@derailed.top"
