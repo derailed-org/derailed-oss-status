@@ -6,8 +6,12 @@ sites:
     url: https://derailed.top
     expectedStatusCodes:
       - 200
+      - 403
   - name: Derailed API
     url: https://api.derailed.top
+    expectedStatusCodes:
+      - 404
+      - 403
 
 status-website:
   # TODO: Change Logo URL
