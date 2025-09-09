@@ -16,7 +16,7 @@ sites:
 status-website:
   # TODO: Change Logo URL
   baseUrl: /
-  logoUrl: https://github.com/derailedapp/derailed/blob/master/app/static/derailed-icon-white.svg
+  logoUrl: https://raw.githubusercontent.com/derailedapp/derailed/refs/heads/master/app/static/derailed-icon-white.svg
   cname: status.derailed.top
   theme: night
   name: "Derailed Status"
