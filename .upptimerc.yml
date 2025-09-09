@@ -19,8 +19,7 @@ status-website:
   logoUrl: https://github.com/derailedapp/derailed/blob/master/app/static/derailed-text.svg
   cname: status.derailed.top
   theme: night
-  introTitle: "**Derailed Status** OSS"
-  introMessage: "This is the Status Page for Derailed."
+  introTitle: "**Derailed Status**"
   navbar:
     - title: Status
       href: /
