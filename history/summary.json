@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 332,
-    "timeDay": 343,
-    "timeWeek": 332,
-    "timeMonth": 332,
-    "timeYear": 332,
+    "time": 331,
+    "timeDay": 310,
+    "timeWeek": 331,
+    "timeMonth": 331,
+    "timeYear": 331,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.derailed.top.ico",
     "slug": "derailed-api",
     "status": "down",
-    "uptime": "31.10%",
-    "uptimeDay": "99.99%",
+    "uptime": "31.09%",
+    "uptimeDay": "89.81%",
     "uptimeWeek": "76.03%",
     "uptimeMonth": "15.59%",
     "uptimeYear": "1.46%",
     "time": 613,
-    "timeDay": 582,
+    "timeDay": 0,
     "timeWeek": 613,
     "timeMonth": 613,
     "timeYear": 613,
     "dailyMinutesDown": {
-      "2025-09-14": 0,
+      "2025-09-15": 41,
+      "2025-09-14": 106,
       "2025-09-09": 871,
       "2025-09-08": 1440,
       "2025-09-07": 1440,
@@ -393,8 +394,7 @@
       "2024-09-19": 1440,
       "2024-09-18": 1440,
       "2024-09-17": 1440,
-      "2024-09-16": 1440,
-      "2024-09-15": 1440
+      "2024-09-16": 1440
     }
   }
 ]
