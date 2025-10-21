@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 307,
-    "timeDay": 291,
-    "timeWeek": 305,
-    "timeMonth": 289,
+    "timeDay": 333,
+    "timeWeek": 306,
+    "timeMonth": 292,
     "timeYear": 307,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.derailed.top.ico",
     "slug": "derailed-api",
     "status": "down",
-    "uptime": "30.91%",
+    "uptime": "30.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "19.64%",
+    "uptimeMonth": "16.36%",
     "uptimeYear": "3.85%",
     "time": 597,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 617,
+    "timeMonth": 619,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2025-10-20": 42,
+      "2025-10-21": 39,
+      "2025-10-20": 1440,
       "2025-10-19": 1440,
       "2025-10-18": 1440,
       "2025-10-17": 1440,
@@ -385,8 +386,7 @@
       "2024-10-25": 1440,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
-      "2024-10-22": 1440,
-      "2024-10-21": 1440
+      "2024-10-22": 1440
     }
   }
 ]
