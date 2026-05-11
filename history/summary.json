@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/derailed.top.ico",
     "slug": "derailed-site",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 278,
-    "timeDay": 127,
-    "timeWeek": 134,
-    "timeMonth": 132,
-    "timeYear": 278,
+    "uptimeYear": "99.97%",
+    "time": 277,
+    "timeDay": 84,
+    "timeWeek": 126,
+    "timeMonth": 125,
+    "timeYear": 277,
     "dailyMinutesDown": {
       "2025-11-18": 122
     }
@@ -25,7 +25,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.derailed.top.ico",
     "slug": "derailed-api",
     "status": "down",
-    "uptime": "26.15%",
+    "uptime": "26.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -36,7 +36,8 @@
     "timeMonth": 0,
     "timeYear": 597,
     "dailyMinutesDown": {
-      "2026-05-10": 88,
+      "2026-05-11": 106,
+      "2026-05-10": 1440,
       "2026-05-09": 1440,
       "2026-05-08": 1440,
       "2026-05-07": 1440,
@@ -387,8 +388,7 @@
       "2025-05-15": 1440,
       "2025-05-14": 1440,
       "2025-05-13": 1440,
-      "2025-05-12": 1440,
-      "2025-05-11": 1440
+      "2025-05-12": 1440
     }
   }
 ]
