@@ -4,16 +4,16 @@
     "url": "https://derailed.top",
     "icon": "https://icons.duckduckgo.com/ip3/derailed.top.ico",
     "slug": "derailed-site",
-    "status": "down",
-    "uptime": "96.11%",
-    "uptimeDay": "93.87%",
-    "uptimeWeek": "99.12%",
+    "status": "up",
+    "uptime": "96.07%",
+    "uptimeDay": "81.69%",
+    "uptimeWeek": "97.38%",
     "uptimeMonth": "69.42%",
-    "uptimeYear": "96.11%",
+    "uptimeYear": "96.07%",
     "time": 274,
-    "timeDay": 183,
-    "timeWeek": 472,
-    "timeMonth": 352,
+    "timeDay": 274,
+    "timeWeek": 470,
+    "timeMonth": 357,
     "timeYear": 274,
     "dailyMinutesDown": {
       "2025-11-18": 122,
@@ -30,7 +30,7 @@
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 257,
-      "2026-07-06": 88
+      "2026-07-06": 264
     }
   },
   {
@@ -39,7 +39,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.derailed.top.ico",
     "slug": "derailed-api",
     "status": "down",
-    "uptime": "25.08%",
+    "uptime": "25.07%",
     "uptimeDay": "12.64%",
     "uptimeWeek": "1.81%",
     "uptimeMonth": "1.80%",
@@ -402,7 +402,7 @@
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 600,
-      "2026-07-06": 104
+      "2026-07-06": 280
     }
   }
 ]
