@@ -4,14 +4,14 @@
     "url": "https://derailed.top",
     "icon": "https://icons.duckduckgo.com/ip3/derailed.top.ico",
     "slug": "derailed-site",
-    "status": "up",
+    "status": "down",
     "uptime": "96.09%",
-    "uptimeDay": "87.64%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "97.38%",
-    "uptimeMonth": "72.30%",
+    "uptimeMonth": "73.92%",
     "uptimeYear": "96.09%",
     "time": 274,
-    "timeDay": 371,
+    "timeDay": 286,
     "timeWeek": 357,
     "timeMonth": 354,
     "timeYear": 274,
@@ -30,7 +30,8 @@
       "2026-06-05": 1440,
       "2026-06-04": 1440,
       "2026-06-03": 257,
-      "2026-07-06": 264
+      "2026-07-06": 264,
+      "2026-07-07": 0
     }
   },
   {
@@ -39,7 +40,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.derailed.top.ico",
     "slug": "derailed-api",
     "status": "down",
-    "uptime": "25.06%",
+    "uptime": "25.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.81%",
     "uptimeMonth": "1.80%",
@@ -401,7 +402,7 @@
       "2025-09-27": 1440,
       "2025-09-26": 1440,
       "2025-09-25": 600,
-      "2026-07-07": 101,
+      "2026-07-07": 812,
       "2026-07-06": 1440
     }
   }
